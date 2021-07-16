@@ -6,7 +6,7 @@ int main(){
     cout<<"Your name: ";
     getline(cin, s);
     cout<<"Nice to see you "<<s<<"!";
-    cout<<endl;
+    cout<<endl ;
     cout<<"Have a nice day.";
 
     return 0;
